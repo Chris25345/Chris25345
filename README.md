@@ -14,8 +14,8 @@
    
    ## CV
 
-   <a name="cv" href="https://www.canva.com/design/DAExGmIvlls/-3jqEs3iuhLb75_thuYaYw/view?utm_content=DAExGmIvlls&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png"/> </a><br>
-   <h3><a name="hh" href="https://spb.hh.ru/applicant/resumes/view?resume=dfd1c9acff097968c00039ed1f4c7534714e4c">CV on hh.ru</a></h3>
+   <a name="cv" href="https://www.canva.com/design/DAExGmIvlls/-3jqEs3iuhLb75_thuYaYw/view?utm_content=DAExGmIvlls&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" ><img src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" target="_blank"/> </a><br>
+   <h3><a name="hh" href="https://spb.hh.ru/applicant/resumes/view?resume=dfd1c9acff097968c00039ed1f4c7534714e4c" target="_blank">CV on hh.ru</a></h3>
 </div>
 
 ## My Tech Stack:
