@@ -4,7 +4,7 @@
    My name is Christina and I'm a FullStack JS Developer.<br>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris25345&layout=compact)](https://github.com/Chris25345/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris25345&layout=compact)
 
   
 ## Here are some links to contact me:
