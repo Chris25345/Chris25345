@@ -24,6 +24,7 @@
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/typescript-TypeScript-blue" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /> &nbsp;
 <h3>Front-end:</h3>
 
@@ -44,7 +45,6 @@
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
 <img src="https://img.shields.io/badge/API-282C34?logo=api&logoColor=E10098" alt="API logo" title="API" height="25" /><br>
-&nbsp;&nbsp;<span>Basic knowleges</span>
 
 ## My development plans:
 
