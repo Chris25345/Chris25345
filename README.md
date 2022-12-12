@@ -49,10 +49,6 @@
 ## My development plans:
 
 <a name="learning-now"></a>
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /><br>
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
-<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=E10098" alt="Docker logo" title="Docker" height="25" />
 <img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=E10098" alt="Unity logo" title="Unity" 
 height="25" />&nbsp;&nbsp;
 
