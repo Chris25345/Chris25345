@@ -24,7 +24,7 @@
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-<img src="https://img.shields.io/badge/typescript-TypeScript-blue" alt="TypeScript logo" title="TypeScript" height="25" />
+<img src="https://img.shields.io/badge/-TypeScript-blue" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /> &nbsp;
 <h3>Front-end:</h3>
 
